@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Keiran
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python, TypeScript, C, Java
+- 💞️ I’m looking to collaborate on anything I can
+- 📫 How to reach me: <a href="https://www.discord.com/users/1000571225808048188" target="_blank">Discord</a>
+- 😄 Pronouns: He/Him
