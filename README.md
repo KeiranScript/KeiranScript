@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keirna</h1>
+<h1 align="center">Hi 👋, I'm Keiran</h1>
 <h3 align="center">Lead developer @ *.kuuichi.xyz</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keiranscript&label=Profile%20views&color=0e75b6&style=flat" alt="keiranscript" /> </p>
