@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **keiran0@proton.me**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Join the server:</h3>
 <p align="left">
 <a href="https://discord.gg/ez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ez" height="30" width="40" /></a>
 </p>
