@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keiranscript&label=Profile%20views&color=0e75b6&style=flat" alt="keiranscript" /> </p>
 
-- 🔭 I’m currently working on random Python scripts
+[comment]: <> (- 🔭 I’m currently working on random Python scripts)
 
 - 🌱 I’m currently learning **Python, Java, Nim**
 
