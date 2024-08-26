@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Arch Linux (btw)**
 
-- 📫 How to reach me **keiran0@proton.me**
+- 📫 Feel free to message me on [Discord](https://discord.com/users/1230319937155760131) or by email at **keiran0@proton.me**
 
 <h3 align="left">Join the server:</h3>
 <p align="left">
