@@ -5,7 +5,7 @@
 
 [comment]: <> (- 🔭 I’m currently working on random Python scripts)
 
-- 🌱 I’m currently learning **Python, Java, Nim**
+- 🌱 I’m currently learning **Python, Go**
 
 - 👨‍💻 Learn more about me at my [bio](https://bio.kuuichi.xyz)
 
