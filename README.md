@@ -5,12 +5,6 @@
 
 [comment]: <> (- 🔭 I’m currently working on random Python scripts)
 
-- 🌱 I’m currently learning **Python, Go**
-
-- 👨‍💻 Learn more about me at my [bio](https://bio.kuuichi.xyz)
-
-- 💬 Ask me about **Arch Linux (btw)**
-
 - 📫 Feel free to message me on [Discord](https://discord.com/users/1230319937155760131) or by email at **keiran0@proton.me**
 
 <h3 align="left">Join the server:</h3>
