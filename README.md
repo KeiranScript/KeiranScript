@@ -4,10 +4,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1230319937155760131)](https://discord.com/users/1230319937155760131)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keiranscript&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="keiranscript" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KeiranScript&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keiranscript&show_icons=true&theme=synthwave&locale=en" alt="keiranscript" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeiranScript&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<p align="left">
-<a href="https://discord.gg/ez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ez" height="30" width="40" /></a>
-</p>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=KeiranScript&theme=tokyonight&hide_border=true)
