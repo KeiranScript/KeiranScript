@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Keiran 👋</h1>
 
-<h3 align="center">Check out my <a target="_blank" href="https://keiran.cc">website</a></h3>
+<h3 align="center">Check out my <a target="_blank" href="https://keiran.live">website</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keirancc&label=Profile%20views&color=0e75b6&style=flat" alt="keirancc" /> </p>
 
